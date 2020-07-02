@@ -2,8 +2,8 @@
 Klasifikasi Menggunakan Learning Vector Quantization
 Bahasa Pemograman Python
 
-# Manual Code program
+## Manual Code program
 not using library
 
-# Requirement:
+## Requirement:
 Scikit-Learn : only for confusion matrix
